@@ -1,0 +1,11 @@
+{
+  "description": "My Spark website",
+  "repo": "https://github.com/RnD-Club-ITM/rnd-blog",
+  "owner": {
+    "username": "Daksh-create349",
+    "email": "dakshshrivastav56@gmail.com"
+  },
+  "record": {
+    "CNAME": "https://spark-kappa-one.vercel.app/"
+  }
+}
